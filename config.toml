@@ -32,7 +32,7 @@ theme = "justice"
   post_navigation = true
   postSections = ["blog"]
 
-[Params.widgets]
+
     search = true # Enable "Search" widget
     recent_articles = true # Enable "Recent arcticles" widget
     categories = true # Enable "Categories" widget
