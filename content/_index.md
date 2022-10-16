@@ -3,7 +3,7 @@ title: Home
 date: "2022-10-13"
 menu:
   main:
-    weight: 1
+    weight: 100
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

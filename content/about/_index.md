@@ -1,9 +1,9 @@
 ---
-title: About Me
+title: About
 date: "2022-10-14"
 menu:
   main:
-    weight: 3
+    weight: 300
 ---
 
 ## Values I provide

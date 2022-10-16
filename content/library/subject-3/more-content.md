@@ -3,7 +3,7 @@ title: Reproductive strategies of lichen
 date: "2022-10-14"
 menu:
   main:
-    parent: library
+    parent: Library
     weight: 3
 ---
 

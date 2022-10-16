@@ -3,7 +3,7 @@ title: Contact Me
 date: "2022-10-13"
 menu:
   main:
-    weight: 6
+    weight: 600
 ---
 
 ## Mail and Courier Service:

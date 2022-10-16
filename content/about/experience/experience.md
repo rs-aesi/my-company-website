@@ -3,7 +3,7 @@ title: Experience
 date: "2022-10-14"
 menu:
   main:
-    parent: about
+    parent: About
     weight: 2
 ---
 

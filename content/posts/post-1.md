@@ -3,7 +3,7 @@ title: This is post #1
 date: "2022-10-13"
 menu:
   main:
-    parent: posts
+    parent: Blog
     weight: 1
 ---
 
