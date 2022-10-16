@@ -1,12 +1,10 @@
 ---
-title: Contact
+title: Contact Me
 date: "2022-10-13"
 menu:
   main:
     weight: 6
 ---
-
-# How to Contact Me
 
 ## Mail and Courier Service:
 Name

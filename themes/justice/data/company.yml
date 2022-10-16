@@ -1,15 +1,8 @@
-title: Justice
+title: My Company
 description: Working with people for over 50 years. Justice Law strives to excel for all clients in every situation.
-contact_email_address: contact@example.com
-phone: (03) 123 4567
-address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
-postal_address: PO Box 123, Ducktown, New Zealand
+contact_email_address: info@example.com
+phone: 123-123-4567
+address: 1234 Example Street, Suburb, ST, 99999
 social_links:
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Instagram
-    link: https://instagram.com/
   - name: LinkedIn
     link: https://linkedin.com/

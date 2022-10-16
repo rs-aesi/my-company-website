@@ -5,5 +5,3 @@ menu:
   main:
     weight: 5
 ---
-
-# Presentations on environmental regulatory science
