@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: "2022-10-13"
-menu:
+menu 
   main:
     weight: 1
 ---
