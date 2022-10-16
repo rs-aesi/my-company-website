@@ -1,14 +1,9 @@
 ---
 title: Expertise
 data: "2022-10-14"
-menu:
-  main:
-    parent: "About"
-    weight: 1
 ---
 
-Expertise
-=========
+# Capabilities
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. In dictum non

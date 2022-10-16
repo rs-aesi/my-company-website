@@ -1,10 +1,6 @@
 ---
 title: Education
 date: "2022-10-14"
-menu:
-  main:
-    parent: "About"
-    weight: 2
 ---
 
 # Education

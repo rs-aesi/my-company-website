@@ -1,9 +1,6 @@
 ---
 title: Contact
 date: "2022-10-13"
-menu:
-  main:
-    weight: 6
 ---
 
 # Mail and Courier Service:
