@@ -1,6 +1,10 @@
 ---
 title: Reproductive strategies of lichen
 date: "2022-10-14"
+menu:
+  main:
+    parent: library
+    weight: 3
 ---
 
 # Reproductive strategies of lichen

@@ -1,6 +1,10 @@
 ---
 title: Expertise
 data: "2022-10-14"
+menu:
+  main:
+    parent: about
+    weight: 1
 ---
 
 # Capabilities

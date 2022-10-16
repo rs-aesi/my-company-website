@@ -1,6 +1,10 @@
 ---
 title: Casting doubt when flyfishing
 date: "2022-10-14"
+menu:
+  main:
+    parent: library
+    weight: 2
 ---
 
 # Casting doubt when flyfishing

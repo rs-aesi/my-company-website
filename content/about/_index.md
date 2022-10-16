@@ -1,6 +1,9 @@
 ---
 title: About
 date: "2022-10-14"
+menu:
+  main:
+    weight: 3
 ---
 
 # Values I provide

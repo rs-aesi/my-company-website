@@ -1,6 +1,10 @@
 ---
 title: This is post #1
 date: "2022-10-13"
+menu:
+  main:
+    parent: posts
+    weight: 1
 ---
 
 # This is the first post

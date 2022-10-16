@@ -1,6 +1,10 @@
 ---
 title: How to identify fish
 date: "2022-10-14"
+menu:
+  main:
+    parent: library
+    weight: 1
 ---
 
 # How to identify fish

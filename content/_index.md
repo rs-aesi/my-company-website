@@ -1,7 +1,12 @@
 ---
 title: Introduction
 date: "2022-10-13"
+menu:
+  main:
+    weight: 1
 ---
+
+# Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at

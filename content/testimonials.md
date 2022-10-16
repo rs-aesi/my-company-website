@@ -1,7 +1,12 @@
 ---
 title: What Clients Say
 date: "2022-10-14"
+menu:
+  main:
+    weight: 2
 ---
+
+# Testimonials
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at

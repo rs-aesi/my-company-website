@@ -1,6 +1,10 @@
 ---
 title: Experience
 date: "2022-10-14"
+menu:
+  main:
+    parent: about
+    weight: 2
 ---
 
 # Representative client projects

@@ -20,6 +20,7 @@ theme = "justice"
   subtitle = "The development site for now"
 
 [params.meta]
+  backgroundImagePath = "img/garden.jpg"
   description = "Building the site the way I want it."
   keywords = "web site,justice theme"
 
@@ -59,77 +60,3 @@ theme = "justice"
   contact_email_address = "Address for the contact form to send to."
   new_window = "Whether the link opens a new browser tab/window."
 
-# Menu section
-
-[menu]
-
-  [[menu.main]]
-    name = "Home"
-    pageRef = "/"
-    weight = 100
-
-  [[menu.main]]
-    name = "Kudos"
-    pageRef = "/testimonials"
-    weight = 200
-
-  [[menu.main]]
-    name = "About"
-    pageRef = "/about"
-    weight = 300
-
-  [[menu.main]]
-    name = "Capabilities"
-    pageRef = "/about/capabilities"
-    parent = "About"
-    weight = 1
-
-  [[menu.main]]
-    name = "Education"
-    pageRef = "/about/education"
-    parent = "About"
-    weight = 2
-
-  [[menu.main]]
-    name = "Experience"
-    pageRef = "/about/experience"
-    parent = "About"
-    weight = 3
-   
-  [[menu.name]]
-    main = "Library"
-    pageRef = "/library"
-    weight = 400
-
-  [[menu.main]]
-    name = "Subject 1"
-    pageRef = "/library/subject-1"
-    parent = "Library"
-    weight = 401
-
-  [[menu.main]]
-    name = "Subject 2"
-    pageRef = "/library/subject-2"
-    parent = "Library"
-    weight = 402
-
-  [[menu.main]]
-    name = "Subject 3"
-    pageRef = "/library/subject-3"
-    parent = "Library"
-    weight = 403
-
-  [[menu.main]]
-    name = "Blog"
-    pageRef = "/blog"
-    weight = 500
-
-  [[menu.main]]
-    name = "Contact"
-    pageRef = "/contact"
-    weight = 600
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
