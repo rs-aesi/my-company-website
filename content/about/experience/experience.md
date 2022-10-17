@@ -1,12 +1,3 @@
----
-title: Experience
-date: "2022-10-14"
-menu:
-  main:
-    parent: About
-    weight: 2
----
-
 # Representative client projects
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.

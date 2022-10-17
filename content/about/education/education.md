@@ -1,12 +1,3 @@
----
-title: Education
-date: "2022-10-14"
-menu:
-  main:
-    parent: About
-    weight: 3
----
-
 # Education
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit.
