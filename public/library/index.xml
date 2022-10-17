@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on My Company</title>
+    <link>http://mycompany.com/library/</link>
+    <description>Recent content in Library on My Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://mycompany.com/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casting doubt when flyfishing</title>
+      <link>http://mycompany.com/library/subject-2/another-content/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mycompany.com/library/subject-2/another-content/</guid>
+      <description>Casting doubt when flyfishing Id diam maecenas ultricies mi eget. Vel pharetra vel turpis nunc eget. Turpis egestas integer eget aliquet nibh praesent.</description>
+    </item>
+    
+    <item>
+      <title>How to identify fish</title>
+      <link>http://mycompany.com/library/subject-1/sub1/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mycompany.com/library/subject-1/sub1/</guid>
+      <description>How to identify fish Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Reproductive strategies of lichen</title>
+      <link>http://mycompany.com/library/subject-3/more-content/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mycompany.com/library/subject-3/more-content/</guid>
+      <description>Reproductive strategies of lichen Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
