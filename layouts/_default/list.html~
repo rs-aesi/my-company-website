@@ -2,6 +2,12 @@
   <article class="content">
     <div>{{ .Content }}</div>
 
+    <ol class="post-list">
+      {{ range .Paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
+    </ol>
+
     {{ if gt .Paginator.TotalPages 1 }}
       <div class="pagination">
         {{ if .Paginator.HasPrev }}

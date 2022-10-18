@@ -3,7 +3,7 @@ title: About
 date: "2011-10-13"
 ---
 
-## Values I provide
+### Values I provide
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
 * Tempor incididunt ut labore et dolore magna aliqua.

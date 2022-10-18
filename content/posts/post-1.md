@@ -15,6 +15,8 @@ tempus iaculis urna id volutpat. Tellus mauris a diam maecenas sed enim ut.
 Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam.
 Blandit massa enim nec dui nunc.
 
+<!--more-->
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Malesuada nunc vel risus
 commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas
