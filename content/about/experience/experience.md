@@ -1,9 +1,5 @@
 ---
 title: Representative Client Projects
-menu:
-  main:
-    parent: About
-    weight: 2
 ---
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.

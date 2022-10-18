@@ -1,8 +1,6 @@
 ---
-Title: About
-menu:
-  main:
-    weight: 300
+title: About
+date: "2011-10-13"
 ---
 
 ## Values I provide

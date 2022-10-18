@@ -1,9 +1,5 @@
 ---
 title: Capabilities
-menu:
-  main:
-    parent: About
-    weight: 1
 ---
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -60,3 +60,84 @@ theme = "justice"
   contact_email_address = "Address for the contact form to send to."
   new_window = "Whether the link opens a new browser tab/window."
 
+# Menu section
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 100
+
+  [[menu.main]]
+    identifier = "kudos"
+    name = "What Clients Say"
+    url = "/testimonials/"
+    weight = 200
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 300
+
+  [[menu.main]]
+    identifier = "expertise"
+    name = "Expertise"
+    url = "/about/expertise/"
+    parent = "about"
+    weight = 301
+
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/about/experience/"
+    parent = "about"
+    weight = 302
+   
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    url = "/about/education/"
+    parent = "about"
+    weight = 303
+
+  [[menu.main]]
+    identifier = "library"
+    name = "Library"
+    url = "/library/"
+    weight = 400
+
+  [[menu.main]]
+    identifier = "sub1"
+    name = "Subject 1"
+    url = "/library/subject-1/"
+    parent = "library"
+    weight = 401
+
+  [[menu.main]]
+    identifier = "sub2"
+    name = "Subject 2"
+    url = "/library/subject-2/"
+    parent = "library"
+    weight = 402
+
+  [[menu.main]]
+    identifer = "sub3"
+    name = "Subject 3"
+    url = "/library/subject-3/"
+    parent = "library"
+    weight = 403
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 500
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 600
