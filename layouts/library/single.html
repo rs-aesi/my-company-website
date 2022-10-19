@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <div class="library-container">
+    <section class="library-list">
+      <h2>Library</h2>
+      <ul>
+        {{ range (where .Site.Pages "Type" "in" "library") }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section class="library">
+      <h2>{{ .Title }}</h2>
+      <ul>
+        {{ range (where .Site.Pages "Type" "in" "library") }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </section>
+
+      {{ .Content }}
+    </section>
+
+  </div>
+{{ end }}
