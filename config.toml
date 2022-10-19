@@ -16,15 +16,14 @@ theme = "justice"
 
 [params]
   appendSiteTitle = true # Append site title to title tag on every page. Default false
-  favicon = 'img/favicon.ico'
+  favicon = './static/img/favicon.ico'
   subtitle = "The development site for now"
 
 [params.meta]
-  backgroundImagePath = "img/garden.jpg"
+  backgroundImagePath = "./static/img/garden.jpg"
   description = "Building the site the way I want it."
   keywords = "web site,justice theme"
-
-
+  
   readmore = "true"
   post_navigation = true
   postSections = ["blog"]

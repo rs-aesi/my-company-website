@@ -1,21 +1,8 @@
 <footer>
   <div class="container">
-    <p class="editor-link"><a href="cloudcannon:collections/data/company.yml" class="btn"><strong>&#9998;</strong> Update Company Details</a></p>
+    <p class="editor-link"><a href="data/company.yml" class="btn"><strong>&#9998;</strong> Update Company Details</a></p>
 
     <div class="footer-columns">
-      {{ if .Site.Menus.footer }}
-        <ul class="footer-links">
-          <li>
-            <h2>Pages</h2>
-          </li>
-          {{ range .Site.Menus.footer }}
-            <li>
-              <a href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      {{ end }}
-
       <ul class="footer-links">
         <li>
           <h2>Social</h2>
@@ -42,10 +29,9 @@
 
   <div class="legal-line">
     <p class="container">
-      &copy; {{ now.Format "2006" }} {{ $.Site.Data.company.title }} &bull;
-      <a href="/terms/">Terms</a>
-      &bull;
-      Template by <a href="https://cloudcannon.com/">CloudCannon</a>
+      Copyright &copy; {{ now.Format "2006" }} {{ $.Site.Data.company.title }}
+      All rights reserved.
+      &bull; Template by <a href="https://cloudcannon.com/">CloudCannon</a>
     </p>
   </div>
 </footer>
