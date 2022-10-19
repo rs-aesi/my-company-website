@@ -1,3 +1,8 @@
+.container {
+margin: 0 auto;
+width: 80%;
+}
+
 .column {
   float: left;
   width: 33.33%;
@@ -9,4 +14,20 @@
   content: "";
   display: table;
   clear: both;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+nav > a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+@media only screen and (min-width: 768px) {
+    nav { flex-direction: row; }
 }
