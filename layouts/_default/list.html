@@ -1,23 +1,10 @@
 {{ define "main" }}
-  <article class="content">
-    <div>{{ .Content }}</div>
 
-    {{ if gt .Paginator.TotalPages 1 }}
-      <div class="pagination">
-        {{ if .Paginator.HasPrev }}
-          <a href="{{ .Paginator.Prev.URL | relURL }}" class="previous btn">&larr; Newer posts</a>
-        {{ else }}
-          <span></span>
-        {{ end }}
-
-        <span>{{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
-
-        {{ if .Paginator.HasNext }}
-          <a href="{{ .Paginator.Next.URL | relURL }}" class="next btn">Older posts &rarr;</a>
-        {{ else }}
-          <span></span>
-        {{ end }}
-      </div>
+  <h2>{{ .Title }}</h2>
+  <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
-  </article>
+  </ul>
+  
 {{ end }}

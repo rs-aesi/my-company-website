@@ -77,7 +77,7 @@ theme = "justice"
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Me"
     url = "/about/"
     weight = 300
 

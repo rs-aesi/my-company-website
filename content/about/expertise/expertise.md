@@ -1,5 +1,7 @@
 ---
-title: Capabilities
+title: "Capabilities"
+date: "2022-10-19"
+description: "My technical expertise benefiting my clients."
 ---
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit.

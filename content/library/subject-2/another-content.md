@@ -1,6 +1,7 @@
 ---
-title: Casting doubt when flyfishing
+title: "Casting doubt when flyfishing"
 date: "2022-10-14"
+description: "How politicians fish for votes."
 ---
 
 # Casting doubt when flyfishing

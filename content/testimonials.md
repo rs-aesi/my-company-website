@@ -1,7 +1,10 @@
 ---
-title: What Clients Say
+title: "What Clients Say"
 date: "2022-10-14"
+description: "Client testimonials of the value they gained from my
+services."
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at

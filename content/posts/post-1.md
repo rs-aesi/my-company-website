@@ -1,6 +1,7 @@
 ---
-title: This is post #1
+title: "This is post #1"
 date: "2022-10-13"
+description: "Yaba, yaba, yaba."
 ---
 
 # This is the first post

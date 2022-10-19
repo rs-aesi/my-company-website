@@ -1,6 +1,7 @@
 ---
-title: Home
+title: "Home"
 date: "2022-10-13"
+description: "Introducing My Company"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

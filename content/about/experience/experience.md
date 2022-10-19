@@ -1,5 +1,7 @@
 ---
-title: Representative Client Projects
+title: "Representative Client Projects"
+date: "2022-10-19"
+description: "My project experience and the types of clients I've helped."
 ---
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.

@@ -1,6 +1,8 @@
 ---
-title: How to identify fish
+title: "How to identify fish"
 date: "2022-10-14"
+description: "Identifying fish is important to know what you're eating for
+dinner."
 ---
 
 # How to identify fish

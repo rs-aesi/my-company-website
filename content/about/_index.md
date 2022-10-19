@@ -1,9 +1,10 @@
 ---
-title: About
+title: "About"
 date: "2011-10-13"
+description: "My expertise, experience, and education."
 ---
 
-### Values I provide
+### Values I provide ![me](/static/img/favicon-16x16.png)
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
 * Tempor incididunt ut labore et dolore magna aliqua.

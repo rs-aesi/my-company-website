@@ -2,7 +2,7 @@
 title: "{{ replace .Name '-' ' ' | title }}"
 date: {{ .Date }}
 categories:
-author: Richard Shepard, PhD
+author: me
 image:
 draft: false
 ---
