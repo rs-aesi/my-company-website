@@ -1,7 +1,12 @@
 ---
+identifier: "projects"
 title: "Representative Client Projects"
 date: "2022-10-19"
 description: "My project experience and the types of clients I've helped."
+menu:
+  main:
+    parent: "about"
+    weight: 2
 ---
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.

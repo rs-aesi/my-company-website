@@ -1,8 +1,13 @@
 ---
+identifier: "fishes"
 title: "How to identify fish"
 date: "2022-10-14"
 description: "Identifying fish is important to know what you're eating for
 dinner."
+menu:
+  main:
+    parent: "docs"
+    weight: 1
 ---
 
 # How to identify fish

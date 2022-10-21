@@ -1,7 +1,11 @@
 ---
+identifier: "contact"
 title: "Contact Me"
 date: "2022-10-13"
 description: "How to contact The Company."
+menu:
+  main:
+    weight: 600
 ---
 
 ### Mail and Courier Service:

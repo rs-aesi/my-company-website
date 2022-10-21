@@ -1,7 +1,12 @@
 ---
-title: "Capabilities"
+identifier: "expert"
+title: "Expertise"
 date: "2022-10-19"
 description: "My technical expertise benefiting my clients."
+menu:
+  main:
+    parent: "about"
+    weight: 1
 ---
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit.

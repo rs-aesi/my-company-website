@@ -1,6 +1,10 @@
 ---
-title: Blog
+identifier: "posts"
+title: "Blog"
 date: "2022-10-13"
+menu:
+  main:
+    weight: 500
 ---
 
 ### The subjects of these posts

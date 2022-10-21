@@ -1,8 +1,12 @@
 ---
+identifier: "kudos"
 title: "What Clients Say"
 date: "2022-10-14"
 description: "Client testimonials of the value they gained from my
 services."
+menu:
+  main:
+    weight: 200
 ---
 
 

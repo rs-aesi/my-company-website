@@ -1,7 +1,12 @@
 ---
+identifier: "fishing"
 title: "Casting doubt when flyfishing"
 date: "2022-10-14"
 description: "How politicians fish for votes."
+menu:
+  main:
+    parent: "docs"
+    weight: 2
 ---
 
 # Casting doubt when flyfishing

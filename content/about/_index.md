@@ -1,8 +1,11 @@
 ---
-title: "About"
+identifier: "about"
+name: "About Me"
 date: "2011-10-13"
 description: "My expertise, experience, and education."
-url: "./static/img/favicon-16x16.png"
+menu:
+  main:
+    weight: 300
 ---
 
 ### Values I provide

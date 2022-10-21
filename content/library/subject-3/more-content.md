@@ -1,8 +1,13 @@
 ---
+identier: "lichen"
 title: "Reproductive strategies of lichen"
 date: "2022-10-14"
 description: "Lichens are moss and algae so they're hemaphrodic in the plant
 kingdom."
+menu:
+  main:
+    parent: "docs"
+    weight: 3
 ---
 
 # Reproductive strategies of lichen
