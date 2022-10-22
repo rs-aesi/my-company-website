@@ -46,7 +46,7 @@ theme = "justice"
 [params._comments]
   large_header = "true"
   show_in_navigation = "Toggles a link in the top banner."
-  author_staff_member = "Dr. Richard Shepard"
+  author_staff_member = "Me"
   call_to_action = "Type of request shown at the bottom of this page."
   background_image_path = "./static/img/favicon.ico"
   testimonials = "Update"
