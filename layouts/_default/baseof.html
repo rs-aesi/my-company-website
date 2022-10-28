@@ -35,8 +35,7 @@
     <section class="main">
       <div class="container">
         {{ block "main" . }}{{ end }}
-                
-      </div>
+       </div>
     </section>
 
     {{ if (and (eq .Params.call_to_action "Map") (isset .Site.Params "google_maps_javascript_api_key")) }}
@@ -58,5 +57,11 @@
     {{ end }}
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+    <!-- added by me -->
+    {{if not hugo.IsProduction}} 
+      {{ partial "debug/debug.html"
+        (dict "context" .) }}   
+    {{end}}        
+      
   </body>
 </html>

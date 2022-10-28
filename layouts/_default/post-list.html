@@ -6,6 +6,7 @@
         <h2>{{.Title}}</h2>
       </header>
       <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+      {{ "<!-- BEGIN post-list.html -->" | safeHTML }}
       {{.Content}}
    </article>
    <ul>
@@ -16,5 +17,6 @@
       </li>
    {{ end }}
    </ul>
+   {{ "<!-- END post-list.html -->" | safeHTML }}
 </main>
 {{ end }}

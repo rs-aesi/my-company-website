@@ -1,11 +1,14 @@
 <article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">
-            <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-        </h2>
-        {{ partial "post-date" . }}
-        {{ partial "post-tags" . }}
-        {{ partial "post-categories" . }}
-    </header>
-    {{ .Content }}
+  <header>
+    {{ "<!-- BEGIN content.html -->" | safeHTML }}
+    <h2 class="blog-post-title">
+      <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </h2>
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+  </header>
+
+  {{ .Content }}
+  {{ "<!-- END content.html -->" | safeHTML }}
 </article>

@@ -2,7 +2,9 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
+    {{ "<!-- BEGIN single.html -->" | safeHTML }}
     <title>{{ .Site.Title }}</title>
+    {{ "<!-- END single.html -->" | safeHTML }}
   </head>
   <body>
 
